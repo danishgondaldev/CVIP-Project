@@ -7,7 +7,7 @@
 - **Title**: Fruit Insight
 - **Version**: 1.0
 - **Course**: Computer Vision and Image Processing
-- **Technology Used**: Python, NumPy, PyQt5, OpenCV
+- **Technology Used**: Python, NumPy, Tkinter, OpenCV
 - **Accuracy**: 98.90%
 
 ## Datasets
